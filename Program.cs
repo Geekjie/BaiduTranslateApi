@@ -18,7 +18,7 @@ namespace BaiduTranslateApi
             var query = "iphone";
             var from = "en";
             var to = "zh";
-            var appid = "";// baidu appid
+            var appid = "";// baidu appid 可在百度AI控制台注册
             var salt = "1435660288"; // 随机数
             var key = ""; // baidu key
             var tempstr = appid + query + salt + key;
