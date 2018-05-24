@@ -1,0 +1,7 @@
+D:\VsWorkSpace\ConsoleApplication1\BaiduTranslateApi\bin\Debug\BaiduTranslateApi.exe.config
+D:\VsWorkSpace\ConsoleApplication1\BaiduTranslateApi\bin\Debug\BaiduTranslateApi.exe
+D:\VsWorkSpace\ConsoleApplication1\BaiduTranslateApi\bin\Debug\BaiduTranslateApi.pdb
+D:\VsWorkSpace\ConsoleApplication1\BaiduTranslateApi\bin\Debug\Newtonsoft.Json.dll
+D:\VsWorkSpace\ConsoleApplication1\BaiduTranslateApi\bin\Debug\Newtonsoft.Json.xml
+D:\VsWorkSpace\ConsoleApplication1\BaiduTranslateApi\obj\Debug\BaiduTranslateApi.exe
+D:\VsWorkSpace\ConsoleApplication1\BaiduTranslateApi\obj\Debug\BaiduTranslateApi.pdb
